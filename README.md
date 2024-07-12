@@ -1,4 +1,4 @@
-<h2> Hi, I'm Valentina Rodriguez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hey there, I'm Valentina! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtmNWFlYWprZjN1aDZzeGdmNXM5dGJ6eWVsdXNoNDJ3cDkxcG9xbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWxO36Jzd6bTSt5dIY/giphy.webp" width="230">
 <p><em>Web Developer Fullstack</br> From Buenos Aires, Argentina
 </em></p>
