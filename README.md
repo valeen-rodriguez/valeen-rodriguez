@@ -22,6 +22,6 @@ const valen = {
 }
 ```
 
-<em><b> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRqcTJ2ajF0enpjaGJ1ZmEzeGtydjFudGRneGM4eWh0eThnOGw5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VCmYAcUrdxyINX1tqW/giphy.webp" width="30"> Don't hesitate to reach out to me anytime!</b> Whether you need assistance.</em>
+<em><b> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRqcTJ2ajF0enpjaGJ1ZmEzeGtydjFudGRneGM4eWh0eThnOGw5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VCmYAcUrdxyINX1tqW/giphy.webp" width="30"> Don't hesitate to reach out to me anytime!</b> Whether you need assistance. :)</em>
 
 ---
