@@ -4,8 +4,8 @@
 </em></p>
 
 [![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&labelColor=af2513&logo=gmail&logoColor=white)](mailto:valeenrodriguez02@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Valentina_Rodriguez-blue?style=flat-square&labelColor=035583&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodriguez-valentina/)](https://www.linkedin.com/in/rodriguez-valentina/)
-
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Valentina_Rodriguez-blue?labelColor=035583&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rodriguez-valentina/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FullStack_Dev-FF69B4?labelColor=C71585&logo=bluesky&logoColor=fff)](https://valeen-rodriguez.github.io/portfolio-valeen-rodriguez/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
