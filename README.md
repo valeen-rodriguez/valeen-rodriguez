@@ -12,8 +12,8 @@
 ```javascript
 const valen = {
   pronouns: "she" | "her",
-  code: ["JavaScript", "HTML", "CSS", "SASS"],
-  tools: ["React", "Vite", "NodeJS", "Express", "MySQL"],
+  code: ["JavaScript", "TypeScript", "Python"],
+  tools: ["ReactJS", "Vite", "NodeJS", "Express", "MySQL"],
   designAndApps: {
     design: ["Figma", "Photoshop", "Illustrator", "Notion"],
     apps: ["Github", "Postman", "VSCode", "Bash", "Git"],
